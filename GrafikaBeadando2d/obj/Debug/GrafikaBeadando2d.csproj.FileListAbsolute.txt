@@ -1,0 +1,11 @@
+C:\Users\Peter\source\repos\GrafikaBeadando2d\GrafikaBeadando2d\bin\Debug\GrafikaBeadando2d.exe.config
+C:\Users\Peter\source\repos\GrafikaBeadando2d\GrafikaBeadando2d\bin\Debug\GrafikaBeadando2d.exe
+C:\Users\Peter\source\repos\GrafikaBeadando2d\GrafikaBeadando2d\bin\Debug\GrafikaBeadando2d.pdb
+C:\Users\Peter\source\repos\GrafikaBeadando2d\GrafikaBeadando2d\obj\Debug\GrafikaBeadando2d.csprojAssemblyReference.cache
+C:\Users\Peter\source\repos\GrafikaBeadando2d\GrafikaBeadando2d\obj\Debug\Interop.WMPLib.dll
+C:\Users\Peter\source\repos\GrafikaBeadando2d\GrafikaBeadando2d\obj\Debug\GrafikaBeadando2d.csproj.ResolveComReference.cache
+C:\Users\Peter\source\repos\GrafikaBeadando2d\GrafikaBeadando2d\obj\Debug\GrafikaBeadando2d.Form1.resources
+C:\Users\Peter\source\repos\GrafikaBeadando2d\GrafikaBeadando2d\obj\Debug\GrafikaBeadando2d.Properties.Resources.resources
+C:\Users\Peter\source\repos\GrafikaBeadando2d\GrafikaBeadando2d\obj\Debug\GrafikaBeadando2d.csproj.GenerateResource.cache
+C:\Users\Peter\source\repos\GrafikaBeadando2d\GrafikaBeadando2d\obj\Debug\GrafikaBeadando2d.exe
+C:\Users\Peter\source\repos\GrafikaBeadando2d\GrafikaBeadando2d\obj\Debug\GrafikaBeadando2d.pdb
